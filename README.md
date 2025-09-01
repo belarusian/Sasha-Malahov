@@ -61,7 +61,7 @@ Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLA
 ### Nokia (HERE) — Senior Software Engineer
 2011 – 2014
 - Guides: Modeling, software design, CI, and backend infra in AWS; built a web composer for guide authoring and a named‑entity recognition algorithm (Apache OpenNLP).
-- SCBE (team lead): Maintained a fully managed multi‑master DB with REST APIs for UGC; led migration from on‑prem to global AWS; improved reconciliation and indexing.
+- SCBE (team lead): Maintained a fully managed multi‑master DB with REST APIs for user‑generated content (UGC); led migration from on‑prem to global AWS; improved reconciliation and indexing.
 - Pulse/CNF: Performance work in Nokia MH5 JS framework; cross‑device sync for collections; Berlin handover.
 - Tech: Java, C, Ruby/Sinatra, Lucene, AWS (SQS, DynamoDB, S3).
 
