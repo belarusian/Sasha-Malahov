@@ -9,10 +9,11 @@
 ## Profile
 Software engineering generalist focused on distributed systems, data platforms, and security. Drives ambiguous, cross‑functional initiatives from design through scalable implementation, with a bias for measurable outcomes and operational simplicity.
 
-- Core identity:
-  - Generalist engineer across distributed systems, data platforms, and security
-  - Systems thinker designing durable, end‑to‑end orchestration
-  - Outcome‑driven with a focus on simplicity, reliability, and scale
+- Positioning:
+  - Principal/Staff generalist across distributed systems, data platforms, and security
+  - Systems thinker building durable, end‑to‑end orchestration with simple, reliable ops
+  - Drives cross‑functional initiatives from design to scale; outcome‑driven with measurable impact
+  - Best fit: platform/data infrastructure/security architecture; tech lead for reliability/scale/integration
 
 - Strengths:
   - Architecture: turns ambiguous problems into robust, scalable services
@@ -20,7 +21,7 @@ Software engineering generalist focused on distributed systems, data platforms, 
   - Data governance: schema versioning, validation, discovery/search
   - Security: reference‑quality OIDC with test‑first rigor
   - Integration: frameworks embedding third‑party tools with unified UX/auth
-  - Performance: 10+ PB scanned; ~900 Mbit/s Elasticsearch indexing
+  - Performance: 10+ PB scanned; ≈900 Mbit/s Elasticsearch indexing (avg day <4 min)
   - Languages: Python (strongest), Java, JavaScript/TypeScript
 
 - Signature work:
@@ -28,10 +29,6 @@ Software engineering generalist focused on distributed systems, data platforms, 
   - Unified tables: Glue tables created with real storage/SerDe; schemas versioned/validated (JSON/Avro/Protobuf); multi‑account search
   - Portal integration: Superset fork + custom SQLAlchemy driver; Hue Data Portal; repeatable micro‑portlet pattern
   - Security reference: OIDC 1.0 service and tests that seeded platform‑wide services
-
-- Fit:
-  - Principal/Staff Engineer for platform, data infrastructure, or security architecture
-  - Tech Lead for cross‑functional initiatives emphasizing reliability, scale, and integration
 
 ## Skills
 - Languages: Python, Java, JavaScript, TypeScript, Ruby, C, Shell
@@ -49,12 +46,9 @@ Software engineering generalist focused on distributed systems, data platforms, 
 2016 – Present
 
 Key contributions (2016–2025):
-- Distributed compute — Computation framework (applied to malware scanning) (2023–2024, most complex project): Generalized, cost‑efficient on‑demand compute that distributes work across an arbitrary ring of ephemeral EKS workers via a DB‑backed work ring; resilient orchestration (stateless master, worker heartbeat/rebalance); applied to scan 10+ PB across S3.
-- Data governance — Data Management Schemas & Unified Tables (2024–2025): Unified Glue tables on create, versioned schemas with validation (JSON Schema/Avro/Protobuf), and metadata search across accounts.
-- Portal & integration — IoT Portal and integration framework (2018–2022): Micro‑portlets for platform APIs; forked Superset with custom SQLAlchemy driver; embedded Superset and Hue Data Portal as first‑class portlets with unified UX/auth/governance.
-- Security & identity — OpenID Connect SSO (reference implementation): OIDC 1.0 service and comprehensive tests that became the reference for subsequent security services platform‑wide.
-- Big data & analytics: Hue enrichment; Elasticsearch indexing at ~900 Mbit/s; elasticsearch‑hadoop resiliency; EMR/Batch/Lambda/Athena/Presto workloads; Kafka/Kinesis integrations.
-- Global delivery: WiZ Hong Kong engagement and AliCloud (China) replication patterns.
+- Distributed compute: On‑demand computation framework on EKS/Karpenter distributing work across an ephemeral worker ring (10+ PB scanned).
+- Data governance: Unified Glue tables; versioned/validated schemas (JSON/Avro/Protobuf); metadata search across accounts.
+- Portal/security: Portal integration framework (Superset fork + SQLAlchemy driver; Hue Data Portal) and OIDC 1.0 reference implementation serving the platform.
 
 Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLAlchemy, AWS (EKS/ECR, Glue, Athena, S3, EMR, Batch, Lambda, DynamoDB, KMS, CloudFormation, Kinesis), Kubernetes, Karpenter, Kafka, Elasticsearch/Lucene, Spark, Hadoop, Presto, RDS, SQS, Docker, Terraform.
 
