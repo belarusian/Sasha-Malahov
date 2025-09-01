@@ -86,3 +86,7 @@ Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLA
 
 ## Selected Keywords
 AWS EKS, Karpenter, Kubernetes, Docker, CloudFormation, Glue, Athena, S3, EMR, Batch, Lambda, DynamoDB, Kafka, Kinesis, Spark, Hadoop, Presto, Elasticsearch, SQLAlchemy, Micronaut, React, TypeScript, OpenID Connect, PII detection, JSON Schema, Avro, Protobuf, RDS, SQS, caching, autoscaling, resiliency, cost optimization, multi‑region, AliCloud.
+
+---
+
+Download: [Raw Markdown](https://raw.githubusercontent.com/belarusian/Sasha-Malahov/main/README.md)
