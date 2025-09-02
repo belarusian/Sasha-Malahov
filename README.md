@@ -9,13 +9,7 @@
 ## Profile
 Principal/Staff generalist across distributed systems, data platforms, and security. Leads ambiguous, cross‑functional initiatives from design to scale, favoring operational simplicity, reliability, and cost efficiency. Best fit: platform/data infrastructure/security architecture and tech lead for reliability, scale, and integration.
 
-- Highlights:
-  - Architecture: turns ambiguity into robust, scalable services
-  - Compute: cost‑efficient autoscaling on EKS/Karpenter
-  - Data governance: schema versioning, validation, discovery/search
-  - Security: reference‑quality OIDC with test‑first rigor
-  - Integration: unified UX/auth for third‑party tools
-  - Performance: scanned 10+ PB; ~900 Mbit/s Elasticsearch indexing (avg day <4 min)
+Core strengths: orchestration, governance, identity, integration, performance/cost.
 
 - Signature work:
   - Computation framework: DB‑backed work ring with ephemeral workers; stateless master; resilient rebalance; applied to scan 10+ PB in S3

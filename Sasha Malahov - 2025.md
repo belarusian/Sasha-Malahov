@@ -9,6 +9,8 @@
 ## Profile
 Software engineering generalist focused on distributed systems, data platforms, and security. Drives ambiguous, cross‑functional initiatives from design through scalable implementation, with a bias for measurable outcomes and operational simplicity.
 
+Core strengths: orchestration, governance, identity, integration, performance/cost.
+
 ## Skills
 - Languages: Python, Java, JavaScript, TypeScript, Ruby, C, Shell
 - Data: Spark, Hadoop, Hive, Kafka, Presto, Athena, Elasticsearch/Lucene
