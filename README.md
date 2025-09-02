@@ -7,7 +7,7 @@
 - Location: Greater Boston, MA (open to hybrid/remote)
 
 ## Profile
-Principal/Staff generalist in distributed systems, data platforms, and security. Designs durable, cost‑efficient platforms: on‑demand computation on EKS/Karpenter (10+ PB scanned), unified schema and discovery on AWS Glue (versioning + validation), and OIDC/identity services used platform‑wide. Outcome‑driven, delivering simple, reliable systems at scale; experienced across Python, Java, and TypeScript/JavaScript; language‑agnostic and tool‑driven.
+Software engineering generalist focused on distributed systems, data platforms, and security. Drives ambiguous, cross‑functional initiatives from design through scalable implementation, with a bias for operational simplicity and cost.
 
 - Positioning:
   - Principal/Staff generalist across distributed systems, data platforms, and security
@@ -22,7 +22,7 @@ Principal/Staff generalist in distributed systems, data platforms, and security.
   - Security: reference‑quality OIDC with test‑first rigor
   - Integration: frameworks embedding third‑party tools with unified UX/auth
   - Performance: 10+ PB scanned; ≈900 Mbit/s Elasticsearch indexing (avg day <4 min)
-  - Languages: Python (strongest), Java, JavaScript/TypeScript
+  - Languages: Python, Java, JavaScript/TypeScript
 
 - Signature work:
   - Computation framework: DB‑backed work ring with ephemeral workers; stateless master; resilient rebalance; applied to scan 10+ PB in S3
