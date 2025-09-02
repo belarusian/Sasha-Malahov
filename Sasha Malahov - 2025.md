@@ -67,4 +67,4 @@ Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLA
 - Micronaut
 
 ## Selected Keywords
-AWS EKS, Karpenter, Kubernetes, Docker, CloudFormation, Glue, Athena, S3, EMR, Batch, Lambda, DynamoDB, Kafka, Kinesis, Spark, Hadoop, Presto, Elasticsearch, SQLAlchemy, Micronaut, React, TypeScript, OpenID Connect, PII detection, JSON Schema, Avro, Protobuf, RDS, SQS, caching, autoscaling, resiliency, cost optimization, multi‑region, AliCloud.
+AWS EKS, Karpenter, Kubernetes, Glue, Athena, EMR, Lambda, DynamoDB, Kafka, Spark, Presto, Elasticsearch, SQLAlchemy, Micronaut, React, TypeScript, OpenID Connect, JSON Schema, Avro, Protobuf, RDS, SQS, autoscaling, resiliency, cost optimization, multi‑region.

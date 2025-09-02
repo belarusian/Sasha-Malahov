@@ -7,22 +7,15 @@
 - Location: Greater Boston, MA (open to hybrid/remote)
 
 ## Profile
-Software engineering generalist focused on distributed systems, data platforms, and security. Drives ambiguous, cross‑functional initiatives from design through scalable implementation, with a bias for operational simplicity and cost.
+Principal/Staff generalist across distributed systems, data platforms, and security. Leads ambiguous, cross‑functional initiatives from design to scale, favoring operational simplicity, reliability, and cost efficiency. Best fit: platform/data infrastructure/security architecture and tech lead for reliability, scale, and integration.
 
-- Positioning:
-  - Principal/Staff generalist across distributed systems, data platforms, and security
-  - Systems thinker building durable, end‑to‑end orchestration with simple, reliable ops
-  - Drives cross‑functional initiatives from design to scale; outcome‑driven with measurable impact
-  - Best fit: platform/data infrastructure/security architecture; tech lead for reliability/scale/integration
-
-- Strengths:
-  - Architecture: turns ambiguous problems into robust, scalable services
-  - Compute at scale: cost‑efficient autoscaling on EKS/Karpenter
+- Highlights:
+  - Architecture: turns ambiguity into robust, scalable services
+  - Compute: cost‑efficient autoscaling on EKS/Karpenter
   - Data governance: schema versioning, validation, discovery/search
   - Security: reference‑quality OIDC with test‑first rigor
-  - Integration: frameworks embedding third‑party tools with unified UX/auth
-  - Performance: 10+ PB scanned; ≈900 Mbit/s Elasticsearch indexing (avg day <4 min)
-  - Languages: Python, Java, JavaScript/TypeScript
+  - Integration: unified UX/auth for third‑party tools
+  - Performance: scanned 10+ PB; ~900 Mbit/s Elasticsearch indexing (avg day <4 min)
 
 - Signature work:
   - Computation framework: DB‑backed work ring with ephemeral workers; stateless master; resilient rebalance; applied to scan 10+ PB in S3
@@ -88,4 +81,4 @@ Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLA
 - Micronaut
 
 ## Selected Keywords
-AWS EKS, Karpenter, Kubernetes, Docker, CloudFormation, Glue, Athena, S3, EMR, Batch, Lambda, DynamoDB, Kafka, Kinesis, Spark, Hadoop, Presto, Elasticsearch, SQLAlchemy, Micronaut, React, TypeScript, OpenID Connect, PII detection, JSON Schema, Avro, Protobuf, RDS, SQS, caching, autoscaling, resiliency, cost optimization, multi‑region, AliCloud.
+AWS EKS, Karpenter, Kubernetes, Glue, Athena, EMR, Lambda, DynamoDB, Kafka, Spark, Presto, Elasticsearch, SQLAlchemy, Micronaut, React, TypeScript, OpenID Connect, JSON Schema, Avro, Protobuf, RDS, SQS, autoscaling, resiliency, cost optimization, multi‑region.
