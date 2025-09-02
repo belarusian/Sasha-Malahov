@@ -49,8 +49,8 @@ Key contributions (2016–2025):
 - Distributed compute — Computation framework (applied to malware scanning) (2023–2024, most complex project): Generalized, cost‑efficient on‑demand compute that distributes work across an arbitrary ring of ephemeral EKS workers via a DB‑backed work ring; resilient orchestration (stateless master, worker heartbeat/rebalance); applied to scan 10+ PB across S3.
 - Data governance — Data Management Schemas & Unified Tables (2024–2025): Unified Glue tables on create, versioned schemas with validation (JSON Schema/Avro/Protobuf), and metadata search across accounts.
 - Portal & integration — IoT Portal and integration framework (2018–2022): Micro‑portlets for platform APIs; forked Superset with custom SQLAlchemy driver; embedded Superset and Hue Data Portal as first‑class portlets with unified UX/auth/governance.
-- Security & identity (2018–2020) — OIDC 1.0 reference implementation and separate identity management services (token validation/access control), including a read‑through policy cache; code and tests became the reference for subsequent platform security services.
-- Big data & analytics: Hue enrichment; Elasticsearch indexing at ≈900 Mbit/s (~<4 minutes per avg day); elasticsearch‑hadoop resiliency; EMR/Batch/Lambda/Athena/Presto workloads; Kafka/Kinesis integrations.
+- Security & identity — OpenID Connect SSO (reference implementation): OIDC 1.0 service and comprehensive tests that became the reference for subsequent security services platform‑wide.
+- Big data & analytics: Hue enrichment; Elasticsearch indexing at ~900 Mbit/s; elasticsearch‑hadoop resiliency; EMR/Batch/Lambda/Athena/Presto workloads; Kafka/Kinesis integrations.
 - Global delivery: WiZ Hong Kong engagement and AliCloud (China) replication patterns.
 
 Technologies: Python, Java, JavaScript/TypeScript, React, Micronaut, Flask, SQLAlchemy, AWS (EKS/ECR, Glue, Athena, S3, EMR, Batch, Lambda, DynamoDB, KMS, CloudFormation, Kinesis), Kubernetes, Karpenter, Kafka, Elasticsearch/Lucene, Spark, Hadoop, Presto, RDS, SQS, Docker, Terraform.
