@@ -7,7 +7,7 @@
 - Location: Greater Boston, MA (open to hybrid/remote)
 
 ## Profile
-Software engineering generalist focused on distributed systems, data platforms, and security. Drives ambiguous, cross‑functional initiatives from design through scalable implementation, with a bias for measurable outcomes and operational simplicity.
+Principal/Staff generalist in distributed systems, data platforms, and security. Designs durable, cost‑efficient platforms: on‑demand computation on EKS/Karpenter (10+ PB scanned), unified schema and discovery on AWS Glue (versioning + validation), and OIDC/identity services used platform‑wide. Outcome‑driven, delivering simple, reliable systems at scale; strongest in Python, Java, TypeScript.
 
 - Positioning:
   - Principal/Staff generalist across distributed systems, data platforms, and security
